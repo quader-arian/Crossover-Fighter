@@ -1,0 +1,20 @@
+﻿FighterName,MarWar
+AltFighterName,LuigWall
+Attack,50
+Block,50
+Heal,50
+HitPoints,150
+UltName,Fire Shroom
+UltAttack,20
+UltBlock,80
+UltHeal,-10
+FighterName,Grecario
+AltFighterName,Mewcario
+Attack,60
+Block,40
+Heal,50
+HitPoints,175
+UltName,Psy On Aura 
+UltAttack,100
+UltBlock,0
+UltHeal,30

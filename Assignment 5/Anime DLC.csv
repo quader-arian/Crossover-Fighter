@@ -1,0 +1,20 @@
+﻿FighterName,Naraiya
+AltFighterName,Nasuke
+Attack,60
+Block,40
+Heal,60
+HitPoints,150
+UltName,Chidorigan
+UltAttack,70
+UltBlock,0
+UltHeal,20
+FighterName,Kakolin
+AltFighterName,Vegarrot
+Attack,70
+Block,30
+Heal,30
+HitPoints,175
+UltName,Saiyan Instinct
+UltAttack,110
+UltBlock,30
+UltHeal,-15
